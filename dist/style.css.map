@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../app/scss/style.scss",
+        "../app/scss/base/_globals.scss",
+        "../app/scss/abstract/_variables.scss",
+        "../app/scss/abstract/_mixins.scss",
+        "../app/scss/pages/_home.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
